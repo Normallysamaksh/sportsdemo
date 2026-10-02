@@ -1,0 +1,54 @@
+{
+  "store": {
+    "name": "Patiala Sports House",
+    "tagline": "Gear Up. Play Hard.",
+    "shortStory": "Serving Patiala's players since 1995.",
+    "phone": "+91 98765 43210",
+    "email": "hello@patialasportshouse.com",
+    "address": "123, Leela Bhawan Market, Patiala, Punjab 147001",
+    "hours": "Mon-Sat 10am-8pm, Sun closed",
+    "mapPlaceholder": "Map Placeholder"
+  },
+  "announcement": "Free delivery in Patiala on orders above ₹1999",
+  "brands": [
+    "SG", "SS", "Yonex", "Cosco", "Nivia", "Adidas", "Nike", "Puma"
+  ],
+  "categories": [
+    { "name": "Cricket", "slug": "cricket", "subcategories": ["Bats", "Balls", "Pads", "Gloves", "Helmets", "Kits", "Apparel"] },
+    { "name": "Badminton", "slug": "badminton", "subcategories": ["Rackets", "Shuttles", "Strings", "Bags", "Shoes"] },
+    { "name": "Football", "slug": "football", "subcategories": ["Footballs", "Boots", "Shin Guards", "Goalkeeper Gear"] },
+    { "name": "Gym and Fitness", "slug": "gym-and-fitness", "subcategories": ["Dumbbells", "Resistance Bands", "Mats", "Gloves", "Supplements Shakers"] },
+    { "name": "Tennis and Table Tennis", "slug": "tennis-and-table-tennis", "subcategories": ["Tennis Rackets", "Table Tennis Bats", "Balls"] },
+    { "name": "Indoor Games", "slug": "indoor-games", "subcategories": ["Carrom", "Chess"] },
+    { "name": "Athletics and Running", "slug": "athletics-and-running", "subcategories": ["Running Shoes", "Apparel", "Spikes"] },
+    { "name": "Footwear", "slug": "footwear", "subcategories": ["Cricket Shoes", "Badminton Shoes", "Football Boots", "Running Shoes"] },
+    { "name": "Apparel", "slug": "apparel", "subcategories": ["Jerseys", "Shorts", "Trackpants", "Socks"] },
+    { "name": "Accessories", "slug": "accessories", "subcategories": ["Bags", "Bottles", "Supports", "Grips"] }
+  ],
+  "testimonials": [
+    {
+      "name": "Rajinder Singh",
+      "role": "Local Cricket Coach",
+      "text": "The best quality SG bats I've found in Patiala. My entire academy gets their gear from Patiala Sports House."
+    },
+    {
+      "name": "Amanpreet Kaur",
+      "role": "School PE Teacher",
+      "text": "Reliable supplier for bulk school orders. The Nivia footballs and Cosco basketballs last for seasons."
+    },
+    {
+      "name": "Gurmeet",
+      "role": "Badminton Player",
+      "text": "Excellent stringing service for my Yonex rackets. Done quickly and precisely as requested."
+    },
+    {
+      "name": "Vikram",
+      "role": "Fitness Enthusiast",
+      "text": "Got all my home gym equipment from here during lockdown. Still using it daily. Great prices."
+    }
+  ],
+  "socialLinks": {
+    "instagram": "#TODO",
+    "facebook": "#TODO"
+  }
+}

@@ -1,0 +1,1908 @@
+[
+  {
+    "id": "1",
+    "slug": "nivia-gloves-615",
+    "name": "Nivia Gloves 615",
+    "brand": "Nivia",
+    "category": "cricket",
+    "subcategory": "Gloves",
+    "price": 2728,
+    "compareAtPrice": null,
+    "description": "High quality Nivia Gloves 615 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "imagePaths": [
+      "/images/products/placeholder-1.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "2",
+    "slug": "cosco-helmets-695",
+    "name": "Cosco Helmets 695",
+    "brand": "Cosco",
+    "category": "cricket",
+    "subcategory": "Helmets",
+    "price": 2685,
+    "compareAtPrice": 2924,
+    "description": "High quality Cosco Helmets 695 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "imagePaths": [
+      "/images/products/placeholder-2.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "3",
+    "slug": "nivia-kits-119",
+    "name": "Nivia Kits 119",
+    "brand": "Nivia",
+    "category": "cricket",
+    "subcategory": "Kits",
+    "price": 2394,
+    "compareAtPrice": null,
+    "description": "High quality Nivia Kits 119 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-3.webp"
+    ],
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "id": "4",
+    "slug": "sg-balls-706",
+    "name": "SG Balls 706",
+    "brand": "SG",
+    "category": "cricket",
+    "subcategory": "Balls",
+    "price": 2780,
+    "compareAtPrice": null,
+    "description": "High quality SG Balls 706 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-4.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "5",
+    "slug": "nike-gloves-977",
+    "name": "Nike Gloves 977",
+    "brand": "Nike",
+    "category": "cricket",
+    "subcategory": "Gloves",
+    "price": 3932,
+    "compareAtPrice": null,
+    "description": "High quality Nike Gloves 977 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "imagePaths": [
+      "/images/products/placeholder-5.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "6",
+    "slug": "cosco-balls-454",
+    "name": "Cosco Balls 454",
+    "brand": "Cosco",
+    "category": "cricket",
+    "subcategory": "Balls",
+    "price": 3856,
+    "compareAtPrice": null,
+    "description": "High quality Cosco Balls 454 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-6.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "7",
+    "slug": "puma-shuttles-718",
+    "name": "Puma Shuttles 718",
+    "brand": "Puma",
+    "category": "badminton",
+    "subcategory": "Shuttles",
+    "price": 4658,
+    "compareAtPrice": null,
+    "description": "High quality Puma Shuttles 718 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-7.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "8",
+    "slug": "nike-shuttles-266",
+    "name": "Nike Shuttles 266",
+    "brand": "Nike",
+    "category": "badminton",
+    "subcategory": "Shuttles",
+    "price": 2790,
+    "compareAtPrice": 3336,
+    "description": "High quality Nike Shuttles 266 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-8.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "9",
+    "slug": "sg-shuttles-512",
+    "name": "SG Shuttles 512",
+    "brand": "SG",
+    "category": "badminton",
+    "subcategory": "Shuttles",
+    "price": 4296,
+    "compareAtPrice": 5271,
+    "description": "High quality SG Shuttles 512 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-9.webp"
+    ],
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "id": "10",
+    "slug": "nivia-bags-894",
+    "name": "Nivia Bags 894",
+    "brand": "Nivia",
+    "category": "badminton",
+    "subcategory": "Bags",
+    "price": 3806,
+    "compareAtPrice": 4174,
+    "description": "High quality Nivia Bags 894 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-10.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "11",
+    "slug": "sg-strings-343",
+    "name": "SG Strings 343",
+    "brand": "SG",
+    "category": "badminton",
+    "subcategory": "Strings",
+    "price": 4363,
+    "compareAtPrice": null,
+    "description": "High quality SG Strings 343 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-11.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "12",
+    "slug": "adidas-rackets-711",
+    "name": "Adidas Rackets 711",
+    "brand": "Adidas",
+    "category": "badminton",
+    "subcategory": "Rackets",
+    "price": 3227,
+    "compareAtPrice": 3527,
+    "description": "High quality Adidas Rackets 711 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-12.webp"
+    ],
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "id": "13",
+    "slug": "cosco-boots-303",
+    "name": "Cosco Boots 303",
+    "brand": "Cosco",
+    "category": "football",
+    "subcategory": "Boots",
+    "price": 3576,
+    "compareAtPrice": 4034,
+    "description": "High quality Cosco Boots 303 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-13.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "14",
+    "slug": "nivia-footballs-826",
+    "name": "Nivia Footballs 826",
+    "brand": "Nivia",
+    "category": "football",
+    "subcategory": "Footballs",
+    "price": 3638,
+    "compareAtPrice": 4586,
+    "description": "High quality Nivia Footballs 826 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-14.webp"
+    ],
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "id": "15",
+    "slug": "sg-boots-208",
+    "name": "SG Boots 208",
+    "brand": "SG",
+    "category": "football",
+    "subcategory": "Boots",
+    "price": 881,
+    "compareAtPrice": null,
+    "description": "High quality SG Boots 208 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-15.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "16",
+    "slug": "adidas-shin-guards-705",
+    "name": "Adidas Shin Guards 705",
+    "brand": "Adidas",
+    "category": "football",
+    "subcategory": "Shin Guards",
+    "price": 3661,
+    "compareAtPrice": null,
+    "description": "High quality Adidas Shin Guards 705 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-16.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "17",
+    "slug": "sg-goalkeeper-gear-322",
+    "name": "SG Goalkeeper Gear 322",
+    "brand": "SG",
+    "category": "football",
+    "subcategory": "Goalkeeper Gear",
+    "price": 1135,
+    "compareAtPrice": 1866,
+    "description": "High quality SG Goalkeeper Gear 322 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-17.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "18",
+    "slug": "sg-footballs-106",
+    "name": "SG Footballs 106",
+    "brand": "SG",
+    "category": "football",
+    "subcategory": "Footballs",
+    "price": 4410,
+    "compareAtPrice": null,
+    "description": "High quality SG Footballs 106 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-18.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "19",
+    "slug": "yonex-supplements-shakers-196",
+    "name": "Yonex Supplements Shakers 196",
+    "brand": "Yonex",
+    "category": "gym-and-fitness",
+    "subcategory": "Supplements Shakers",
+    "price": 4439,
+    "compareAtPrice": 4639,
+    "description": "High quality Yonex Supplements Shakers 196 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-19.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "20",
+    "slug": "sg-mats-606",
+    "name": "SG Mats 606",
+    "brand": "SG",
+    "category": "gym-and-fitness",
+    "subcategory": "Mats",
+    "price": 4913,
+    "compareAtPrice": null,
+    "description": "High quality SG Mats 606 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-20.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "21",
+    "slug": "puma-supplements-shakers-956",
+    "name": "Puma Supplements Shakers 956",
+    "brand": "Puma",
+    "category": "gym-and-fitness",
+    "subcategory": "Supplements Shakers",
+    "price": 3497,
+    "compareAtPrice": null,
+    "description": "High quality Puma Supplements Shakers 956 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-21.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "22",
+    "slug": "puma-mats-538",
+    "name": "Puma Mats 538",
+    "brand": "Puma",
+    "category": "gym-and-fitness",
+    "subcategory": "Mats",
+    "price": 899,
+    "compareAtPrice": null,
+    "description": "High quality Puma Mats 538 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-22.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "23",
+    "slug": "yonex-dumbbells-248",
+    "name": "Yonex Dumbbells 248",
+    "brand": "Yonex",
+    "category": "gym-and-fitness",
+    "subcategory": "Dumbbells",
+    "price": 2780,
+    "compareAtPrice": 3521,
+    "description": "High quality Yonex Dumbbells 248 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-23.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "24",
+    "slug": "cosco-dumbbells-522",
+    "name": "Cosco Dumbbells 522",
+    "brand": "Cosco",
+    "category": "gym-and-fitness",
+    "subcategory": "Dumbbells",
+    "price": 571,
+    "compareAtPrice": 1345,
+    "description": "High quality Cosco Dumbbells 522 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-24.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "25",
+    "slug": "cosco-balls-101",
+    "name": "Cosco Balls 101",
+    "brand": "Cosco",
+    "category": "tennis-and-table-tennis",
+    "subcategory": "Balls",
+    "price": 2160,
+    "compareAtPrice": null,
+    "description": "High quality Cosco Balls 101 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-25.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "26",
+    "slug": "ss-tennis-rackets-865",
+    "name": "SS Tennis Rackets 865",
+    "brand": "SS",
+    "category": "tennis-and-table-tennis",
+    "subcategory": "Tennis Rackets",
+    "price": 500,
+    "compareAtPrice": null,
+    "description": "High quality SS Tennis Rackets 865 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-26.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "27",
+    "slug": "adidas-table-tennis-bats-156",
+    "name": "Butterfly Premium Table Tennis Bat",
+    "brand": "Butterfly",
+    "category": "tennis-and-table-tennis",
+    "subcategory": "Table Tennis Bats",
+    "price": 664,
+    "compareAtPrice": null,
+    "description": "High quality Adidas Table Tennis Bats 156 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-27.webp"
+    ],
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "id": "28",
+    "slug": "yonex-tennis-rackets-394",
+    "name": "Yonex Tennis Rackets 394",
+    "brand": "Yonex",
+    "category": "tennis-and-table-tennis",
+    "subcategory": "Tennis Rackets",
+    "price": 2216,
+    "compareAtPrice": 2552,
+    "description": "High quality Yonex Tennis Rackets 394 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-28.webp"
+    ],
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "id": "29",
+    "slug": "puma-balls-918",
+    "name": "Puma Balls 918",
+    "brand": "Puma",
+    "category": "tennis-and-table-tennis",
+    "subcategory": "Balls",
+    "price": 1328,
+    "compareAtPrice": 1889,
+    "description": "High quality Puma Balls 918 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-29.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "30",
+    "slug": "adidas-balls-544",
+    "name": "Adidas Balls 544",
+    "brand": "Adidas",
+    "category": "tennis-and-table-tennis",
+    "subcategory": "Balls",
+    "price": 1110,
+    "compareAtPrice": 1648,
+    "description": "High quality Adidas Balls 544 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-30.webp"
+    ],
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "id": "31",
+    "slug": "puma-carrom-766",
+    "name": "Puma Carrom 766",
+    "brand": "Puma",
+    "category": "indoor-games",
+    "subcategory": "Carrom",
+    "price": 4726,
+    "compareAtPrice": 5641,
+    "description": "High quality Puma Carrom 766 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-31.webp"
+    ],
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "id": "32",
+    "slug": "nike-chess-666",
+    "name": "Classic Wooden Chess Set",
+    "brand": "Staunton",
+    "category": "indoor-games",
+    "subcategory": "Chess",
+    "price": 1372,
+    "compareAtPrice": 2000,
+    "description": "High quality Nike Chess 666 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-32.webp"
+    ],
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "id": "33",
+    "slug": "cosco-chess-630",
+    "name": "Cosco Chess 630",
+    "brand": "Cosco",
+    "category": "indoor-games",
+    "subcategory": "Chess",
+    "price": 1875,
+    "compareAtPrice": null,
+    "description": "High quality Cosco Chess 630 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-33.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "34",
+    "slug": "adidas-chess-731",
+    "name": "Adidas Chess 731",
+    "brand": "Adidas",
+    "category": "indoor-games",
+    "subcategory": "Chess",
+    "price": 1020,
+    "compareAtPrice": null,
+    "description": "High quality Adidas Chess 731 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-34.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "35",
+    "slug": "puma-chess-148",
+    "name": "Puma Chess 148",
+    "brand": "Puma",
+    "category": "indoor-games",
+    "subcategory": "Chess",
+    "price": 3214,
+    "compareAtPrice": 3764,
+    "description": "High quality Puma Chess 148 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-35.webp"
+    ],
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "id": "36",
+    "slug": "nike-chess-546",
+    "name": "Nike Chess 546",
+    "brand": "Nike",
+    "category": "indoor-games",
+    "subcategory": "Chess",
+    "price": 4617,
+    "compareAtPrice": null,
+    "description": "High quality Nike Chess 546 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-36.webp"
+    ],
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "id": "37",
+    "slug": "sg-apparel-314",
+    "name": "SG Apparel 314",
+    "brand": "SG",
+    "category": "athletics-and-running",
+    "subcategory": "Apparel",
+    "price": 1780,
+    "compareAtPrice": null,
+    "description": "High quality SG Apparel 314 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-37.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "38",
+    "slug": "yonex-running-shoes-965",
+    "name": "Brooks Aeroflow Running Shoes",
+    "brand": "Brooks",
+    "category": "athletics-and-running",
+    "subcategory": "Running Shoes",
+    "price": 927,
+    "compareAtPrice": 1719,
+    "description": "High quality Yonex Running Shoes 965 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "imagePaths": [
+      "/images/products/placeholder-38.webp"
+    ],
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "id": "39",
+    "slug": "sg-running-shoes-226",
+    "name": "SG Running Shoes 226",
+    "brand": "SG",
+    "category": "athletics-and-running",
+    "subcategory": "Running Shoes",
+    "price": 1672,
+    "compareAtPrice": 2388,
+    "description": "High quality SG Running Shoes 226 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "imagePaths": [
+      "/images/products/placeholder-39.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "40",
+    "slug": "yonex-spikes-488",
+    "name": "Yonex Spikes 488",
+    "brand": "Yonex",
+    "category": "athletics-and-running",
+    "subcategory": "Spikes",
+    "price": 4279,
+    "compareAtPrice": 5277,
+    "description": "High quality Yonex Spikes 488 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-40.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "41",
+    "slug": "puma-running-shoes-795",
+    "name": "Nike Air Zoom Running Shoes",
+    "brand": "Nike",
+    "category": "athletics-and-running",
+    "subcategory": "Running Shoes",
+    "price": 579,
+    "compareAtPrice": null,
+    "description": "High quality Puma Running Shoes 795 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "imagePaths": [
+      "/images/products/placeholder-41.webp"
+    ],
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "id": "42",
+    "slug": "nike-running-shoes-196",
+    "name": "Nike Running Shoes 196",
+    "brand": "Nike",
+    "category": "athletics-and-running",
+    "subcategory": "Running Shoes",
+    "price": 538,
+    "compareAtPrice": 1394,
+    "description": "High quality Nike Running Shoes 196 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "imagePaths": [
+      "/images/products/placeholder-42.webp"
+    ],
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "id": "43",
+    "slug": "adidas-football-boots-714",
+    "name": "Adidas Football Boots 714",
+    "brand": "Adidas",
+    "category": "footwear",
+    "subcategory": "Football Boots",
+    "price": 3257,
+    "compareAtPrice": null,
+    "description": "High quality Adidas Football Boots 714 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-43.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "44",
+    "slug": "nivia-cricket-shoes-215",
+    "name": "Nivia Cricket Shoes 215",
+    "brand": "Nivia",
+    "category": "footwear",
+    "subcategory": "Cricket Shoes",
+    "price": 3987,
+    "compareAtPrice": null,
+    "description": "High quality Nivia Cricket Shoes 215 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "imagePaths": [
+      "/images/products/placeholder-44.webp"
+    ],
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "id": "45",
+    "slug": "yonex-football-boots-430",
+    "name": "Yonex Football Boots 430",
+    "brand": "Yonex",
+    "category": "footwear",
+    "subcategory": "Football Boots",
+    "price": 3472,
+    "compareAtPrice": 4108,
+    "description": "High quality Yonex Football Boots 430 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-45.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "46",
+    "slug": "nivia-cricket-shoes-581",
+    "name": "Nivia Cricket Shoes 581",
+    "brand": "Nivia",
+    "category": "footwear",
+    "subcategory": "Cricket Shoes",
+    "price": 2282,
+    "compareAtPrice": 2805,
+    "description": "High quality Nivia Cricket Shoes 581 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "imagePaths": [
+      "/images/products/placeholder-46.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "47",
+    "slug": "yonex-badminton-shoes-722",
+    "name": "Yonex Badminton Shoes 722",
+    "brand": "Yonex",
+    "category": "footwear",
+    "subcategory": "Badminton Shoes",
+    "price": 973,
+    "compareAtPrice": 1612,
+    "description": "High quality Yonex Badminton Shoes 722 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "imagePaths": [
+      "/images/products/placeholder-47.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "48",
+    "slug": "adidas-badminton-shoes-930",
+    "name": "Adidas Badminton Shoes 930",
+    "brand": "Adidas",
+    "category": "footwear",
+    "subcategory": "Badminton Shoes",
+    "price": 1975,
+    "compareAtPrice": null,
+    "description": "High quality Adidas Badminton Shoes 930 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "imagePaths": [
+      "/images/products/placeholder-48.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "49",
+    "slug": "adidas-trackpants-412",
+    "name": "Adidas Trackpants 412",
+    "brand": "Adidas",
+    "category": "apparel",
+    "subcategory": "Trackpants",
+    "price": 4454,
+    "compareAtPrice": 4716,
+    "description": "High quality Adidas Trackpants 412 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "imagePaths": [
+      "/images/products/placeholder-49.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "50",
+    "slug": "yonex-trackpants-848",
+    "name": "Yonex Trackpants 848",
+    "brand": "Yonex",
+    "category": "apparel",
+    "subcategory": "Trackpants",
+    "price": 2368,
+    "compareAtPrice": null,
+    "description": "High quality Yonex Trackpants 848 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "imagePaths": [
+      "/images/products/placeholder-50.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "51",
+    "slug": "yonex-shorts-188",
+    "name": "Yonex Shorts 188",
+    "brand": "Yonex",
+    "category": "apparel",
+    "subcategory": "Shorts",
+    "price": 502,
+    "compareAtPrice": 1090,
+    "description": "High quality Yonex Shorts 188 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "imagePaths": [
+      "/images/products/placeholder-51.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "52",
+    "slug": "puma-trackpants-649",
+    "name": "Puma Trackpants 649",
+    "brand": "Puma",
+    "category": "apparel",
+    "subcategory": "Trackpants",
+    "price": 1115,
+    "compareAtPrice": 1648,
+    "description": "High quality Puma Trackpants 649 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "imagePaths": [
+      "/images/products/placeholder-52.webp"
+    ],
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "id": "53",
+    "slug": "sg-trackpants-190",
+    "name": "SG Trackpants 190",
+    "brand": "SG",
+    "category": "apparel",
+    "subcategory": "Trackpants",
+    "price": 3239,
+    "compareAtPrice": null,
+    "description": "High quality SG Trackpants 190 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "imagePaths": [
+      "/images/products/placeholder-53.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "54",
+    "slug": "sg-socks-536",
+    "name": "SG Socks 536",
+    "brand": "SG",
+    "category": "apparel",
+    "subcategory": "Socks",
+    "price": 3344,
+    "compareAtPrice": null,
+    "description": "High quality SG Socks 536 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "imagePaths": [
+      "/images/products/placeholder-54.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "55",
+    "slug": "cosco-grips-693",
+    "name": "Cosco Grips 693",
+    "brand": "Cosco",
+    "category": "accessories",
+    "subcategory": "Grips",
+    "price": 2262,
+    "compareAtPrice": null,
+    "description": "High quality Cosco Grips 693 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-55.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "56",
+    "slug": "ss-grips-369",
+    "name": "SS Grips 369",
+    "brand": "SS",
+    "category": "accessories",
+    "subcategory": "Grips",
+    "price": 4290,
+    "compareAtPrice": null,
+    "description": "High quality SS Grips 369 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-56.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "57",
+    "slug": "cosco-bags-700",
+    "name": "Cosco Bags 700",
+    "brand": "Cosco",
+    "category": "accessories",
+    "subcategory": "Bags",
+    "price": 1222,
+    "compareAtPrice": null,
+    "description": "High quality Cosco Bags 700 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-57.webp"
+    ],
+    "tags": []
+  },
+  {
+    "id": "58",
+    "slug": "nike-bottles-725",
+    "name": "Nike Bottles 725",
+    "brand": "Nike",
+    "category": "accessories",
+    "subcategory": "Bottles",
+    "price": 581,
+    "compareAtPrice": 1551,
+    "description": "High quality Nike Bottles 725 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-58.webp"
+    ],
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "id": "59",
+    "slug": "ss-bottles-974",
+    "name": "SS Bottles 974",
+    "brand": "SS",
+    "category": "accessories",
+    "subcategory": "Bottles",
+    "price": 3068,
+    "compareAtPrice": null,
+    "description": "High quality SS Bottles 974 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-59.webp"
+    ],
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "id": "60",
+    "slug": "cosco-bottles-106",
+    "name": "Cosco Bottles 106",
+    "brand": "Cosco",
+    "category": "accessories",
+    "subcategory": "Bottles",
+    "price": 1111,
+    "compareAtPrice": 1841,
+    "description": "High quality Cosco Bottles 106 perfect for beginners and professionals alike. Manufactured with premium materials for durability and performance.",
+    "specs": [
+      {
+        "name": "Material",
+        "value": "Premium"
+      },
+      {
+        "name": "Weight",
+        "value": "Standard"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "variants": null,
+    "imagePaths": [
+      "/images/products/placeholder-60.webp"
+    ],
+    "tags": [
+      "bestseller"
+    ]
+  }
+]
