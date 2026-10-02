@@ -1,3 +1,5 @@
+"use client";
+
 import siteData from '@/data/site.json';
 
 export default function ContactPage() {
